@@ -13,7 +13,7 @@
 * A total of 3048 compounds collected from DockCoV2 database after filtering out compounds which doesn't have information about solubility values and logP values.
 
 ## Model
-* Different machine learning methods and neural network models will be implemented and their performance in predicting the aqueous solubility will be compared
+* Different machine learning methods and neural network models will be implemented and their performance in predicting the aqueous solubility will be compared.
 
 ## Requirements
 * Python 3.6 and above
