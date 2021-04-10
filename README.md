@@ -10,7 +10,7 @@
 * To serve as a virtual screening of drugs with high solubility.
 
 ## Dataset
-* A total of 3048 compounds collected from DockCoV2 database after filtering out compounds which doesn't have information about solubility values and logP values.
+* A total of 1230 compounds collected from DockCoV2 database after filtering out compounds which doesn't have information about solubility values.
 
 ## Model
 * Different machine learning methods and neural network models will be implemented and their performance in predicting the aqueous solubility will be compared.
